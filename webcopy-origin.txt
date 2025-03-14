@@ -1,0 +1,100 @@
+Uri: http://business-school-amanat.kz/nnnnnn
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\nnnnnn-1.html
+Content Type: text/html
+
+Uri: https://business-school-amanat.kz/nnnnnn
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\nnnnnn.html
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/npm/tesseract.js@4.0.2/dist/tesseract.min.js
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\npm\tesseract.js@4.0.2\dist\tesseract.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&subset=latin,cyrillic
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFukDQ.ttf
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsukDQ.ttf
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/css/tilda-grid-3.0.min.css
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/img/tildacopy.png
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.pro/img/tildafavicon.ico
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\img\tildafavicon.ico
+Content Type: image/x-icon
+
+Uri: https://static.tildacdn.pro/js/jquery-1.10.2.min.js
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-events-1.0.min.js
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-lazyload-1.0.min.js
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-polyfill-1.0.min.js
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-scripts-3.0.min.js
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/tild3338-6138-4165-b430-616132633839/photo_53776632210303.jpg
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\tild3338-6138-4165-b430-616132633839\photo_53776632210303.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.pro/ws/project9847941/tilda-blocks-page54191251.min.css?t=1738779645
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\ws\project9847941\tilda-blocks-page54191251.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/ws/project9847941/tilda-blocks-page54191251.min.js?t=1738779645
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\ws\project9847941\tilda-blocks-page54191251.min.js
+Content Type: application/javascript
+
+Uri: https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\wikipedia\commons\5\5e\WhatsApp_icon.png
+Content Type: image/png
+
+Uri: https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\wikipedia\commons\a\a5\Instagram_icon.png
+Content Type: image/png
+
+Uri: https://www.facebook.com/tr?id=1041811254281640&ev=PageView&noscript=1
+File Name: C:\Users\Nurda\Documents\Бану\business-school-amanat.kz\tr
+Content Type: text/plain
+
